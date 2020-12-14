@@ -8,6 +8,12 @@
 ## Report
 [report.pdf](https://github.com/)
 
-## Dependencies & sources
+## Links
+- [LDA Library Implementation](https://github.com/Djensonsan/Information_Retrieval_Assignment_2/blob/main/LDA-Library.ipynb)
+- [LDA Custom Implementation](https://github.com/Djensonsan/Information_Retrieval_Assignment_2/blob/main/LDA_Custom.ipynb)
+- [Analysis Notebook](https://github.com/Djensonsan/Information_Retrieval_Assignment_2/blob/main/LDA_Analysis.ipynb)
+- [Analysis Results](https://github.com/Djensonsan/Information_Retrieval_Assignment_2/tree/main/analysisFiles)
 
 ## Usage
+All notebooks can be opened and run on Google colab. 
+You could run these notebooks on a Jupyter notebook server as well.

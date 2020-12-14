@@ -6,7 +6,7 @@
  - Johannes Voshol (s0200178)
 
 ## Report
-[report.pdf](https://github.com/)
+[Report.pdf](https://github.com/Djensonsan/Information_Retrieval_Assignment_2/blob/main/Information_Retrieval__Assignment_2.pdf)
 
 ## Overview
 The results of our experiments on the smaller dataset (see reference in report) can be found under [analysisFiles](https://github.com/Djensonsan/Information_Retrieval_Assignment_2/tree/main/analysisFiles).

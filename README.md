@@ -8,6 +8,10 @@
 ## Report
 [report.pdf](https://github.com/)
 
+## Overview
+The results of our experiments on the smaller dataset (see reference in report) can be found under [analysisFiles](https://github.com/Djensonsan/Information_Retrieval_Assignment_2/tree/main/analysisFiles).
+The results for the larger dataset (the one provided in the assignment description) can be found under [analysisFilesLargeDataset](https://github.com/Djensonsan/Information_Retrieval_Assignment_2/tree/main/analysisFilesLargeDataset).
+
 ## Links
 - [LDA Library Implementation](https://github.com/Djensonsan/Information_Retrieval_Assignment_2/blob/main/LDA-Library.ipynb)
 - [LDA Custom Implementation](https://github.com/Djensonsan/Information_Retrieval_Assignment_2/blob/main/LDA_Custom.ipynb)
